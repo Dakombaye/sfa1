@@ -1,0 +1,25 @@
+composer create-project symfony/website-skeleton
+
+digitalocean.com
+symfony new IMMOB –webapp
+cd C:\Users\NIKIEMA\Desktop\IMMOB
+symfony server:start
+Public : CSS ;JS ;image ;pHP
+Template : controleur
+Bootstrap
+symfony new SIMON –webapp
+php bin/console make:entity : Création d’une entité
+
+Acces->Lister->Repositry->
+
+#composer create-project symfony/skeleton SFA1
+#cd SFA1
+#composer require webapp
+
+php bin/console make:controller AdminController
+
+https://getbootstrap.com/docs/5.1/examples/#custom-components
+
+https://getbootstrap.com/docs/5.1/examples/dashboard/
+
+https://getbootstrap.com/docs/5.1/examples/offcanvas-navbar/
